@@ -18,27 +18,5 @@ Features:-
 
 Tech used:- HTML, CSS and Bootstrap.
 -------------------------------------------------------------------
-
-Roles:-
-
-        Ayush -->   Home Page
-                    Navigation Bar
-                    Footer
-                    Home Page Content
-                    Responsive Design
-
-        Shubham --> Explore Page Layout
-                    Responsive Design
-                    Explore Page Animation
-                    Explore Page Content
-                    Github Management
-
-        Anunay -->  Login Page
-                    Sign up Page
-                    Hover and Transform
-                    Explore Page Content
-                    Responsive Design
---------------------------------------------------------------------
-
 Hosted Link:- https://tour-india-ns.netlify.app/
         
